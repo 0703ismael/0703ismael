@@ -39,8 +39,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail Badge">
   </a>
 </p>
-![Snake animation](https://github.com/0703ismael/0703ismael/blob/output/github-snake.svg)
-
 ---
 
 <!--
