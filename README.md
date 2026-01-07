@@ -3,7 +3,7 @@
 ![Jogo da Cobra](https://raw.githubusercontent.com/0703ismael/0703ismael/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Sobre Mim
-Sou um desenvolvedor **Front-End** apaixonado por tecnologia. Meu foco é transformar layouts complexos em experiências digitais fluidas, utilizando as melhores práticas de design e performance.
+Profissional de tecnologia com experiência em Front-End, suporte técnico e análise de dados, focado em soluções eficientes, interfaces funcionais e tomada de decisão baseada em dadose.
 
 ---
 
