@@ -3,7 +3,7 @@
 ![Jogo da Cobra](https://raw.githubusercontent.com/0703ismael/0703ismael/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Sobre Mim
-Profissional de tecnologia com experiência em Front-End, suporte técnico e análise de dados, focado em soluções eficientes, interfaces funcionais e tomada de decisão baseada em dadose.
+Profissional de tecnologia com experiência em Front-End, suporte técnico e análise de dados, focado em soluções eficientes, interfaces funcionais e tomada de decisão baseada em dados.
 
 ---
 
